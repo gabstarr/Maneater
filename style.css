@@ -9,6 +9,7 @@ body{
 header{
     display: flex;
     justify-content: space-evenly;
+    color: aqua;
 }
 img{
     weidth: 30%
