@@ -9,8 +9,8 @@ body{
 header{
     display: flex;
     justify-content: space-evenly;
-    color: aqua;
+    color: var(--cor-de-texto);
 }
 img{
-    weidth: 30%
+    width: 30%
 }
