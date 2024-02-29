@@ -11,7 +11,7 @@ header{
     display: flex;
     justify-content: space-evenly;
     color: var(--cor-de-texto);
-    color: var(--cor-do-cabeçalho);
+    background-color: var(--cor-do-cabeçalho);
 }
 img{
     width: 20%
