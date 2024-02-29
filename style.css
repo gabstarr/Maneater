@@ -8,4 +8,8 @@ body{
 
 header{
     display: flex;
+    justify-content: space-evenly;
+}
+img{
+    weidth: 30%
 }
