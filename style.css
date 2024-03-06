@@ -15,6 +15,7 @@ header{
     justify-content: space-around;
     align-items: center;
     justify-content: space-evenly;
+    border: 2px solid var(--cor-de-texto);
 }
 img{
     width: 20%
