@@ -25,4 +25,5 @@ img{
 
 .apresentacao{
     display: flex;
+    background-color: var(--branco);
 }
