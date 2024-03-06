@@ -2,6 +2,7 @@
     --cor-de-fundo: #d49aeb;
     --cor-de-texto: #ffffff;
     --cor-do-cabeçalho: #fadff8;
+    --cor-apresentacao: #86d3e0;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -25,5 +26,5 @@ img{
 
 .apresentacao{
     display: flex;
-    background-color: var(--branco);
+    background-color: var(--cor-apresentacao);
 }
