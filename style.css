@@ -28,5 +28,5 @@ img{
 .apresentacao{
     display: flex;
     background-color: var(--cor-apresentacao);
-    border: 2px solid var(--cor-de-texto);
+    border-width: 2px solid var(--cor-de-texto);
 }
