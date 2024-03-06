@@ -32,3 +32,11 @@ img{
     padding: 20px 0 0;
     margin: 20px 0 0;
 }
+
+.blablabla{
+    display: flex;
+    background-color: var(--cor-apresentacao);
+    border: 2px solid var(--cor-de-texto);
+    padding: 20px 0 0;
+    margin: 20px 0 0;
+}
