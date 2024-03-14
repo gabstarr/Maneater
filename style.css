@@ -6,6 +6,9 @@
 }
 body{
     background-color: var(--cor-de-fundo);
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 header{
