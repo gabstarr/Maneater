@@ -47,6 +47,15 @@ img{
     border-radius: 15px;
 }
 
+.adrianabloco{
+    display: flex;
+    background-color: var(--cor-apresentacao);
+    border: 2px solid var(--cor-de-texto);
+    padding: 20px 0 0;
+    margin: 20px 0 0;
+    border-radius: 15px;
+}
+
 .fonte{
     font-size: 9000;
 }
