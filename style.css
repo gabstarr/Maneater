@@ -2,7 +2,7 @@
     --cor-de-fundo: #d49aeb;
     --cor-de-texto: #ffffff;
     --cor-do-cabeçalho: #e6b8e4;
-    --cor-apresentacao: #f2dbf0;
+    --cor-apresentacao: #edccea;
 }
 body{
     background-color: var(--cor-de-fundo);
