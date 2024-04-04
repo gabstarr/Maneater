@@ -65,8 +65,8 @@ img{
 }
 
 .equipe{
-    display: flex;
-    grid-template-columns: 33% 33% 33%;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
     text-align: center;
     background-color: #edccea;
     padding: 20px 0 0;
