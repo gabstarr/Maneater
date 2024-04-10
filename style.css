@@ -45,9 +45,16 @@ img{
     padding: 20px;
     margin: 20px 0 0;
     border-radius: 15px;
+    justify-content: space-between;
 }
 
+.tchatcha{
+    text-align: end;
+}
 
+.tchotcho{
+    width: 20%;
+}
 
 .adrianabloco{
     display: flex;
