@@ -83,3 +83,9 @@ img{
     border: 3px solid black;
     margin: 10px;
 }
+
+footer{
+    background-color: black;
+    color: rgb(255, 255, 255);
+
+}
