@@ -42,9 +42,13 @@ img{
     display: flex;
     background-color: var(--cor-apresentacao);
     border: 2px solid var(--cor-de-texto);
-    padding: 20px 0 0;
+    padding: 20px;
     margin: 20px 0 0;
     border-radius: 15px;
+}
+
+.Gisele{
+    padding: 30px;
 }
 
 .adrianabloco{
